@@ -14,9 +14,9 @@ Goal - I need a boilerplate that can be used to quickly generate react based use
 ## Roadmap / Timeline:
 
 - [x] **Start Repo + Outline Project**: -Hello World!
-- [ ] **Setup Next/React App**: npx create-next-app
+- [x] **Setup Next/React App**: npx create-next-app
 - [ ] **Setup Tailwind CSS / Config**: npx tailwindcss init -p
-- [ ] **Setup Storybook / Config**: npx sb init
+- [x] **Setup Storybook / Config**: npx sb init
 - [ ] **Sample Pages/Layouts**: Login / Dashboard / Marketing / Blog
 - [ ] **Sample Atomic Blocks**: Header / Footer / Card / Etc...
 - [ ] **Setup Testing**: Jest / Puppeteer / Snapshot
