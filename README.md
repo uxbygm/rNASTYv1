@@ -15,7 +15,7 @@ Goal - I need a boilerplate that can be used to quickly generate react based use
 
 - [x] **Start Repo + Outline Project**: -Hello World!
 - [x] **Setup Next/React App**: npx create-next-app
-- [ ] **Setup Tailwind CSS / Config**: npx tailwindcss init -p
+- [x] **Setup Tailwind CSS / Config**: npx tailwindcss init -p
 - [x] **Setup Storybook / Config**: npx sb init
 - [ ] **Sample Pages/Layouts**: Login / Dashboard / Marketing / Blog
 - [ ] **Sample Atomic Blocks**: Header / Footer / Card / Etc...
